@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a Research Assistant at at the Singapore University of Technology and Design (SUTD), working under the guidance of Professor [Zehui Xiong](https://sites.google.com/view/zehuixiong). My research interests lie in the intersection of wireless communication, applied artificial intelligence, and multimedia.
+I am currently a Research Assistant at the Singapore University of Technology and Design (SUTD), working under the guidance of Professor [Zehui Xiong](https://sites.google.com/view/zehuixiong). My research interests lie in the intersection of wireless communication, applied artificial intelligence, and multimedia.
 
-Prior to joining SUTD, I embarked on my research journey at Chung-Ang University, South Korea, where I completed my Master's degree in 2024 under the supervision of Professor [Nhu-Ngoc Dao](https://pshhlab.github.io/nndao) and Professor [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho). My undergraduate studies were at the Hanoi University of Science and Technology, Vietnam, where I received my Bachelor's degree in 2020.
+Prior to joining SUTD, I embarked on my research journey at Chung-Ang University, South Korea, where I completed my Master's degree in 2024 under the supervision of Professor [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) with close collaboration from Professor [Nhu-Ngoc Dao](https://pshhlab.github.io/nndao). My undergraduate studies were at the Hanoi University of Science and Technology, Vietnam, where I received my Bachelor's degree in 2020.
 
