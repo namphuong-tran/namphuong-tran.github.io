@@ -22,28 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Singapore University of Technology and Design",
-      "position": "Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2024-04-01",
-      "endDate": "Present",
-      "summary": "Working as a Research Assistant at the Singapore University of Technology and Design (SUTD), working under the guidance of Professor Zehui Xiong.",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "Chung-Ang University",
@@ -66,6 +44,55 @@
       "endDate": "2020-08-03",
       "score": "3.21/4.0",
       "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Singapore University of Technology and Design (SUTD)",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "Present",
+      "summary": "Working on Applied AI on Physical Layer Communications project at the SUTD, working under the guidance of Professor Zehui Xiong.",
+      "highlights": [""]
+    },
+    {
+      "name": "Chung-Ang University",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": "2024-02-29",
+      "summary": "Research on Applied AI in Wireless Communications and Multimedia Streaming Services under the supervision of Professor Sungrae Cho",
+      "highlights": [""]
+    },
+    {
+      "name": "Viettel Digial Service",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2020-04-01",
+      "endDate": "2022-02-22",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Hanoi University of Science and Technology",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2019-02-01",
+      "endDate": "2020-03-22",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
