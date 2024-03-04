@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research, "Joint wireless resource allocation and bitrate adaptation for QoE improvement in IRS-aided RSMA-enabled IoMT streaming systems" has been accepted for publication in Elsevier's Internet of Things journal!
+My research, "Joint wireless resource allocation and bitrate adaptation for QoE improvement in IRS-aided RSMA-enabled IoMT streaming systems" has been accepted for publication in Elsevier Internet of Things journal!
