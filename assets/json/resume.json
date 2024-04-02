@@ -279,11 +279,13 @@
   "references": [
     {
       "name": "Professor Sungrae Cho",
+      "url": "https://sites.google.com/uclab.re.kr/srcho",
       "icon": "fa-solid fa-laptop",
       "reference": "School of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea"
     },
     {
       "name": "Assistant Professor Nhu-Ngoc Dao",
+      "url": "https://nndao.github.io",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Department of Computer Science and Engineering, Sejong University, Seoul, South Korea"
     }
