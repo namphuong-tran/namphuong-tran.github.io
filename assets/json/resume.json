@@ -86,23 +86,87 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Vietnamese Student Association at Chung-Ang University",
+      "position": "President",
+      "url": "",
+      "startDate": "2022-10-15",
+      "endDate": "2023-10-15",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Chung-Ang University Young Scientist Scholarship (CAYSS)",
+      "date": "2023",
+      "awarder": "Chung-Ang University",
+      "url": "https://oia.cau.ac.kr/sub06/sub03_2_2.php",
+      "summary": ""
+    },
+    {
+      "title": "Brain Korea 21 (BK21) University Graduate School Research Scholarship",
+      "date": "2023",
+      "awarder": "National Research Foundation of Korea",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Daewoong AI Big Data Scholarship Program 5th Batch",
+      "date": "2023",
+      "awarder": "Daewoong Foundation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Shinhan Bank Scholarship",
+      "date": "2023",
+      "awarder": "Shinhan Bank Korea",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Chung-Ang University Young Scientist Scholarship (CAYSS)",
+      "date": "2022",
+      "awarder": "Chung-Ang University",
+      "url": "https://oia.cau.ac.kr/sub06/sub03_2_2.php",
+      "summary": ""
+    },
+    {
+      "title": "Brain Korea 21 (BK21) University Graduate School Research Scholarship",
+      "date": "2022",
+      "awarder": "National Research Foundation of Korea",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Daewoong AI Big Data Scholarship Program 4th Batch",
+      "date": "2022",
+      "awarder": "Daewoong Foundation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "3rd winner in Programming Competition for Vietnamese students in Korea",
+      "date": "2022",
+      "awarder": "Ministry of Science and ICT",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Presentation Award in recognition of outstanding thesis presentation",
+      "date": "2020",
+      "awarder": "Hanoi University of Science and Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean’s List - Excellent Student Award",
+      "date": "2016",
+      "awarder": "Hanoi University of Science and Technology",
+      "url": "",
+      "summary": ""
     }
+    
   ],
   "certificates": [
     {
