@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Nam-Phuong Tran",
     "label": "Research Assistant",
     "image": "",
@@ -54,7 +54,7 @@
       "startDate": "2024-04-01",
       "endDate": "Present",
       "summary": "Working on Applied AI on Physical Layer Communications project at the SUTD, working under the guidance of Professor Zehui Xiong.",
-      "highlights": [""]
+      "highlights": []
     },
     {
       "name": "Chung-Ang University",
