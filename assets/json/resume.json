@@ -1,5 +1,5 @@
 {
-  "General Information": {
+  "Basics": {
     "name": "Nam-Phuong Tran",
     "label": "Research Assistant",
     "image": "",
@@ -63,7 +63,7 @@
       "startDate": "2023-03-01",
       "endDate": "2024-02-29",
       "summary": "Research on Applied AI in Wireless Communications and Multimedia Streaming Services under the supervision of Professor Sungrae Cho",
-      "highlights": [""]
+      "highlights": []
     },
     {
       "name": "Viettel Digial Service",
@@ -72,7 +72,7 @@
       "startDate": "2020-04-01",
       "endDate": "2022-02-22",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     },
     {
       "name": "Hanoi University of Science and Technology",
@@ -81,25 +81,25 @@
       "startDate": "2019-02-01",
       "endDate": "2020-03-22",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "Vietnamese Student Association at Chung-Ang University",
+      "organization": "Vietnamese Student Association at Chung-Ang University, South Korea",
       "position": "President",
       "url": "",
       "startDate": "2022-10-15",
       "endDate": "2023-10-15",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "awards": [
     {
       "title": "Chung-Ang University Young Scientist Scholarship (CAYSS)",
       "date": "2022-2023",
-      "awarder": "Chung-Ang University",
+      "awarder": "Chung-Ang University, South Korea",
       "url": "https://oia.cau.ac.kr/sub06/sub03_2_2.php",
       "summary": ""
     },
@@ -113,42 +113,42 @@
     {
       "title": "Daewoong AI Big Data Scholarship Program 5th Batch",
       "date": "2023",
-      "awarder": "Daewoong Foundation",
+      "awarder": "Daewoong Foundation, South Korea",
       "url": "",
       "summary": ""
     },
     {
       "title": "Shinhan Bank Scholarship",
       "date": "2023",
-      "awarder": "Shinhan Bank Korea",
+      "awarder": "Shinhan Bank, South Korea",
       "url": "",
       "summary": ""
     },
     {
       "title": "Daewoong AI Big Data Scholarship Program 4th Batch",
       "date": "2022",
-      "awarder": "Daewoong Foundation",
+      "awarder": "Daewoong Foundation, South Korea",
       "url": "",
       "summary": ""
     },
     {
       "title": "3rd winner in Programming Competition for Vietnamese students in Korea",
       "date": "2022",
-      "awarder": "Ministry of Science and ICT",
+      "awarder": "Ministry of Science and ICT, South Korea",
       "url": "",
       "summary": ""
     },
     {
       "title": "Best Presentation Award in recognition of outstanding thesis presentation",
       "date": "2020",
-      "awarder": "Hanoi University of Science and Technology",
+      "awarder": "Hanoi University of Science and Technology, Vietnam",
       "url": "",
       "summary": ""
     },
     {
       "title": "Dean’s List - Excellent Student Award",
       "date": "2016",
-      "awarder": "Hanoi University of Science and Technology",
+      "awarder": "Hanoi University of Science and Technology, Vietnam",
       "url": "",
       "summary": ""
     }
