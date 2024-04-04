@@ -50,6 +50,7 @@
     {
       "name": "Singapore University of Technology and Design (SUTD)",
       "position": "Research Assistant",
+      "location": "Singapore",
       "url": "",
       "startDate": "2024-04-01",
       "endDate": "Present",
@@ -59,6 +60,7 @@
     {
       "name": "Chung-Ang University",
       "position": "Research Assistant",
+      "location": "Seoul, South Korea",
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2024-02-29",
@@ -68,6 +70,7 @@
     {
       "name": "Viettel Digial Service",
       "position": "Software Engineer",
+      "location": "Hanoi, Vietnam",
       "url": "",
       "startDate": "2020-04-01",
       "endDate": "2022-02-22",
@@ -77,6 +80,7 @@
     {
       "name": "Hanoi University of Science and Technology",
       "position": "Research Assistant",
+      "location": "Hanoi, Vietnam",
       "url": "",
       "startDate": "2019-02-01",
       "endDate": "2020-03-22",
