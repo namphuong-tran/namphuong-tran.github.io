@@ -27,5 +27,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently a Research Assistant at the Singapore University of Technology and Design (SUTD), working under the guidance of Professor [Zehui Xiong](https://sites.google.com/view/zehuixiong). My research interests lie in the intersection of wireless communication, applied artificial intelligence, and multimedia.
 
-Prior to joining SUTD, I embarked on my research journey at Chung-Ang University (CAU), South Korea, where I completed my Master's degree in 2024 under the supervision of Professor [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) with close collaboration from Professor [Nhu-Ngoc Dao](https://pshhlab.github.io/nndao). My undergraduate studies were at the Hanoi University of Science and Technology, Vietnam, where I received my Bachelor's degree in 2020.
+Prior to joining SUTD, I embarked on my research journey at Chung-Ang University, South Korea, where I completed my Master's degree in 2024 under the supervision of Professor [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) with close collaboration from Professor [Nhu-Ngoc Dao](https://pshhlab.github.io/nndao). My undergraduate studies were at the Hanoi University of Science and Technology, Vietnam, where I received my Bachelor's degree in 2020.
 
