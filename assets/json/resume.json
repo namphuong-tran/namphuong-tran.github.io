@@ -24,6 +24,15 @@
   },
   "education": [
     {
+      "institution": "University of Oulu",
+      "location": "Oulu, Finland",
+      "url": "https://www.oulu.fi/en",
+      "area": "Communications Engineering",
+      "studyType": "Doctor of Science in Technology",
+      "startDate": "2025-01-15",
+      "courses": ["Advised by Professor Markku Juntti and Professor Nhan Nguyen", "Marie Skłodowska-Curie Doctoral Fellowship"]
+    },
+    {
       "institution": "Chung-Ang University",
       "location": "Seoul, South Korea",
       "url": "https://www.cau.ac.kr/index.do",
@@ -48,13 +57,23 @@
   ],
   "work": [
     {
+      "name": "Centre for Wireless Communications – Radio Technologies, University of Oulu",
+      "position": "Doctoral Researcher",
+      "location": "Oulu, Finland",
+      "url": "",
+      "startDate": "2025-01-15",
+      "endDate": "present",
+      "summary": "Conducting research on data-driven optimization of reconfigurable intelligent surfaces as part of the EXACT-6G project.",
+      "highlights": []
+    },
+    {
       "name": "Singapore University of Technology and Design (SUTD)",
       "position": "Research Assistant",
       "location": "Singapore",
       "url": "",
       "startDate": "2024-04-01",
-      "endDate": "Present",
-      "summary": "Working on Applied AI on Physical Layer Communications project at the SUTD, working under the guidance of Professor Zehui Xiong.",
+      "endDate": "2024-10-30",
+      "summary": "Worked on Applied AI on Physical Layer Communications project at the SUTD, working under the guidance of Professor Zehui Xiong.",
       "highlights": []
     },
     {
@@ -64,7 +83,7 @@
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2024-02-29",
-      "summary": "Research on Applied AI in Wireless Communications and Multimedia Streaming Services under the supervision of Professor Sungrae Cho",
+      "summary": "Conducted research on Applied AI in Wireless Communications and Multimedia Streaming Services under the supervision of Professor Sungrae Cho",
       "highlights": []
     },
     {
@@ -100,6 +119,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Marie Skłodowska-Curie Doctoral Fellowship",
+      "date": "2025-2028",
+      "awarder": "Marie Skłodowska-Curie Actions, European Union",
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks",
+      "summary": ""
+    },
     {
       "title": "Chung-Ang University Young Scientist Scholarship (CAYSS)",
       "date": "2022-2023",
@@ -159,6 +185,18 @@
     
   ],
   "references": [
+    {
+      "name": "Professor Markku Juntti",
+      "url": "https://www.oulu.fi/en/researchers/markku-juntti",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Faculty of Information Technology and Electrical Engineering, University of Oulu, Oulu, Finland"
+    },
+    {
+      "name": "Assistant Professor Nhan Nguyen",
+      "url": "https://nhanng9115.github.io/homepage/",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Faculty of Information Technology and Electrical Engineering, University of Oulu, Oulu, Finland"
+    },
     {
       "name": "Professor Sungrae Cho",
       "url": "https://sites.google.com/uclab.re.kr/srcho",
