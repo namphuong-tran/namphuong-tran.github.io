@@ -355,17 +355,6 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2021/distill/";
           
         },
-      },{id: "post-a-post-with-github-metadata",
-        
-          title: "a post with github metadata",
-        
-        description: "a quick run down on accessing github metadata.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2020/github-metadata/";
-          
-        },
       },{id: "post-a-post-with-twitter",
         
           title: "a post with twitter",
