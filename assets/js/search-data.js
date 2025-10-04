@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/cv/";
@@ -58,7 +58,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/al-folio/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/al-folio/blog/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -355,6 +369,17 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2021/distill/";
           
         },
+      },{id: "post-a-post-with-github-metadata",
+        
+          title: "a post with github metadata",
+        
+        description: "a quick run down on accessing github metadata.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2020/github-metadata/";
+          
+        },
       },{id: "post-a-post-with-twitter",
         
           title: "a post with twitter",
@@ -426,14 +451,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-i-have-graduated-with-a-master-of-engineering-in-computer-science-from-chung-ang-university",
-          title: 'I have graduated with a Master of Engineering in Computer Science from Chung-Ang...',
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-my-research-joint-wireless-resource-allocation-and-bitrate-adaptation-for-qoe-improvement-in-irs-aided-rsma-enabled-iomt-streaming-systems-has-been-accepted-for-publication-in-elsevier-internet-of-things-journal",
-          title: 'My research, “Joint wireless resource allocation and bitrate adaptation for QoE improvement in...',
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
           description: "",
-          section: "News",},{id: "news-i-have-joined-the-singapore-university-of-technology-and-design-sutd-as-a-research-assistant-under-the-guidance-of-zehui-xiong",
-          title: 'I have joined the Singapore University of Technology and Design (SUTD) as a...',
+          section: "News",handler: () => {
+              window.location.href = "/al-folio/news/announcement_2/";
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-has-been-accepted-for-presentation-at-the-ieee-wireless-communications-and-networking-conference-wcnc",
           title: 'Our paper has been accepted for presentation at the IEEE Wireless Communications and...',
