@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-19 15:59:00-0400
+date: 2024-03-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I have graduated with a Master of Engineering in Computer Science from Chung-Ang University.
+I have joined the Singapore University of Technology and Design (SUTD) as a Research Assistant under the guidance of Zehui Xiong!

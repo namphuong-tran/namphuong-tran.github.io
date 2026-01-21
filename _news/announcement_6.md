@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-08 07:59:00-0400
+date: 2026-01-19 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper has been accepted for publication in Computer Networks journal!
+My paper has been accepted at the IEEE ICC 2026 conference!
