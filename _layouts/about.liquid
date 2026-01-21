@@ -47,15 +47,15 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-    
-    {% comment %} <!-- Latest posts -->
-    {% if page.latest_posts %}
+
+    <!-- Latest posts -->
+    {% if site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
-    {% endif %} {% endcomment %}
-    
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -63,7 +63,6 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
 
     <!-- Social -->
     {% if page.social %}
@@ -74,9 +73,8 @@ layout: default
       </div>
     {% endif %}
 
-
-
-    <!-- Add flag counter -->
-    <a href="https://worldflagcounter.com/details/iIh"><img src="https://worldflagcounter.com/iIh/" alt="Flag Counter"></a>
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
   </article>
 </div>
