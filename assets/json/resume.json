@@ -30,7 +30,10 @@
       "area": "Communications Engineering",
       "studyType": "Doctor of Science in Technology",
       "startDate": "2025-01-15",
-      "courses": ["Advised by Professor Markku Juntti and Professor Nhan Nguyen", "Marie Skłodowska-Curie Doctoral Fellowship"]
+      "courses": [
+        "Advised by Professor Markku Juntti and Professor Nhan Nguyen",
+        "Marie Skłodowska-Curie Doctoral Fellowship"
+      ]
     },
     {
       "institution": "Chung-Ang University",
@@ -41,7 +44,10 @@
       "startDate": "2022-03-01",
       "endDate": "2024-02-19",
       "score": "4.35/4.5",
-      "courses": ["Advised by Professor Sungrae Cho", "Chung-Ang University Young Scientist Scholarship"]
+      "courses": [
+        "Advised by Professor Sungrae Cho",
+        "Chung-Ang University Young Scientist Scholarship"
+      ]
     },
     {
       "institution": "Hanoi University of Science and Technology",
@@ -182,7 +188,6 @@
       "url": "",
       "summary": ""
     }
-    
   ],
   "references": [
     {
@@ -208,6 +213,12 @@
       "url": "https://nndao.github.io",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Department of Computer Science and Engineering, Sejong University, Seoul, South Korea"
+    },
+    {
+      "name": "Professor Zehui Xiong",
+      "url": "https://sites.google.com/view/zehuixiong",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Queen's University Belfast, UK"
     }
   ]
 }
