@@ -29,4 +29,4 @@ I am currently a Doctoral Researcher at the Centre for Wireless Communications (
 
 Before joining the University of Oulu, I worked as a Research Assistant at the Singapore University of Technology and Design (SUTD) under the guidance of [Zehui Xiong](https://sites.google.com/view/zehuixiong). I completed my Master’s degree in 2024 at Chung-Ang University (CAU), South Korea, under the supervision of [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho), with close collaboration from [Nhu-Ngoc Dao](https://pshhlab.github.io/). I received my Bachelor’s degree in 2020 from the Hanoi University of Science and Technology (HUST), Vietnam.
 
-My research interests include machine learning for wireless communications, reconfigurable intelligent surfaces, cell-free massive MIMO, and multimedia streaming.
+My research interests include machine learning for wireless communications, reconfigurable intelligent surfaces (RIS), cell-free massive MIMO, and multimedia streaming.
