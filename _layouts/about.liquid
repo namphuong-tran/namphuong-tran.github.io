@@ -77,8 +77,24 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
 
-    <!-- GoatCounter analytics -->
+    <!-- GoatCounter analytics + visitor counter -->
     <script data-goatcounter="https://phuongtran.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
+    <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--global-text-color-light, #888);">
+      <span id="gc-visitors"></span>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("https://phuongtran.goatcounter.com/counter//.json")
+          .then(function (r) { return r.json(); })
+          .then(function (data) {
+            var el = document.getElementById("gc-visitors");
+            if (el && data && data.count !== undefined) {
+              el.textContent = data.count + " total visitors";
+            }
+          })
+          .catch(function () {});
+      });
+    </script>
   </article>
 </div>
