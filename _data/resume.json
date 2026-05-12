@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Nam-Phuong Tran",
-    "label": "Research Assistant",
+    "name": "Phuong Tran",
+    "label": "Doctoral Researcher",
     "image": "",
-    "email": "trannamphuong.work@gmail.com",
+    "email": "phuong.tran@oulu.fi",
     "phone": "",
     "url": "https://namphuong-tran.github.io",
     "summary": "",
@@ -30,6 +30,7 @@
       "area": "Communications Engineering",
       "studyType": "Doctor of Science in Technology",
       "startDate": "2025-01-15",
+      "endDate": "present",
       "courses": [
         "Advised by Professor Markku Juntti and Professor Nhan Nguyen",
         "Marie Skłodowska-Curie Doctoral Fellowship"
@@ -39,7 +40,7 @@
       "institution": "Chung-Ang University",
       "location": "Seoul, South Korea",
       "url": "https://www.cau.ac.kr/index.do",
-      "area": "Computer Science",
+      "area": "Big Data",
       "studyType": "Master of Engineering",
       "startDate": "2022-03-01",
       "endDate": "2024-02-19",
@@ -69,7 +70,7 @@
       "url": "",
       "startDate": "2025-01-15",
       "endDate": "present",
-      "summary": "Conducting research on data-driven optimization of reconfigurable intelligent surfaces as part of the EXACT-6G project.",
+      "summary": "Developing scalable and low-complexity data-driven optimization methods for reconfigurable intelligent surfaces as part of the EXACT-6G project.",
       "highlights": []
     },
     {
@@ -79,7 +80,7 @@
       "url": "",
       "startDate": "2024-04-01",
       "endDate": "2024-10-30",
-      "summary": "Worked on Applied AI on Physical Layer Communications project at the SUTD, working under the guidance of Professor Zehui Xiong.",
+      "summary": "Conducted research on applied AI techniques for physical layer communications, under the guidance of Professor Zehui Xiong.",
       "highlights": []
     },
     {
@@ -89,7 +90,7 @@
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2024-02-29",
-      "summary": "Conducted research on Applied AI in Wireless Communications and Multimedia Streaming Services under the supervision of Professor Sungrae Cho",
+      "summary": "Conducted research on applied AI for wireless communications and multimedia streaming services under the supervision of Professor Sungrae Cho.",
       "highlights": []
     },
     {
