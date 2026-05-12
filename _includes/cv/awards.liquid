@@ -17,7 +17,12 @@
                 <tr>
                   <td>
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{- start_date | split: '-' | slice: 0, 1 | join: '' -}}
+                      {%- assign date_parts = start_date | strip | split: '-' -%}
+                      {%- if date_parts.size == 3 -%}
+                        {{- date_parts[0] -}}
+                      {%- else -%}
+                        {{- start_date | strip -}}
+                      {%- endif -%}
                     </span>
                   </td>
                 </tr>
