@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-01'
 papers:
   LC65zBkAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -42,7 +42,7 @@ papers:
     title: 'Privacy-preserving learning models for communication: A tutorial on advanced split learning'
     year: '2022'
   LC65zBkAAAAJ:u5HHmVD_uO8C:
-    citations: 9
+    citations: 10
     title: Joint wireless resource allocation and bitrate adaptation for QoE improvement in IRS-aided RSMA-enabled IoMT streaming systems
     year: '2024'
   LC65zBkAAAAJ:zYLM7Y9cAGgC:
