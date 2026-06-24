@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-24'
 papers:
   LC65zBkAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -46,6 +46,6 @@ papers:
     title: Joint wireless resource allocation and bitrate adaptation for QoE improvement in IRS-aided RSMA-enabled IoMT streaming systems
     year: '2024'
   LC65zBkAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: Deep Complex-valued Convolutional Learning for Waveform OFDM Receiver Design
     year: '2025'
