@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-01'
 papers:
   LC65zBkAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: Energy Efficiency in Quantized MIMO-NOMA Communication Systems
     year: '2026'
   LC65zBkAAAAJ:d1gkVwhDpl0C:
-    citations: 10
+    citations: 11
     title: 'Privacy-preserving traffic flow prediction: a split learning approach'
     year: '2023'
   LC65zBkAAAAJ:qjMakFHDy7sC:
