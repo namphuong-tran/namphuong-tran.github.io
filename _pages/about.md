@@ -6,7 +6,7 @@ permalink: /
 subtitle: Doctoral Researcher @UOulu
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_high.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
