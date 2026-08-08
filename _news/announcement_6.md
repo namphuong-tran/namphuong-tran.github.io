@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper has been accepted at the IEEE ICC 2026 conference!
+My paper has been accepted to IEEE ICC 2026 conference!
