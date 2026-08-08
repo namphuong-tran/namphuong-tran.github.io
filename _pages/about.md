@@ -29,5 +29,4 @@ I am currently a Doctoral Researcher at the Centre for Wireless Communications (
 
 Before joining the University of Oulu, I worked as a Research Assistant at the Singapore University of Technology and Design (SUTD) under the guidance of [Zehui Xiong](https://sites.google.com/view/zehuixiong). I completed my Master’s degree in 2024 at Chung-Ang University (CAU), South Korea, under the supervision of [Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho), with close collaboration from [Nhu-Ngoc Dao](https://pshhlab.github.io/). I received my Bachelor’s degree in 2020 from the Hanoi University of Science and Technology (HUST), Vietnam.
 
-
 My research focuses on machine learning for wireless communications, developing scalable and low-complexity solutions for cell-free massive MIMO and integrated sensing and communication using deep reinforcement learning, deep unfolding, and graph neural networks.
