@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-08-12'
 papers:
   LC65zBkAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Joint content popularity and audience retention-aware live streaming over RSMA edge networks
     year: '2025'
+  LC65zBkAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Deep-Unfolded Accelerated Projected Gradient for Energy-Efficient Cell-Free Massive MIMO
+    year: '2026'
   LC65zBkAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO
