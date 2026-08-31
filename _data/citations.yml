@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-31'
 papers:
   LC65zBkAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Deep-Unfolded Accelerated Projected Gradient for Energy-Efficient Cell-Free Massive MIMO
     year: '2026'
   LC65zBkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 0
+    citations: 1
     title: Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO
     year: '2026'
   LC65zBkAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: Deep Reinforcement Learning for Hybrid RIS Assisted MIMO Communications
     year: '2025'
   LC65zBkAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 2
     title: Energy Efficiency in Quantized MIMO-NOMA Communication Systems
     year: '2026'
   LC65zBkAAAAJ:d1gkVwhDpl0C:
